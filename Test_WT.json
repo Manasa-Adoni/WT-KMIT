@@ -1,0 +1,21 @@
+[{
+	"firstName": "manasa",
+	"lastName": "adoni",
+	"age": 19,
+	"marks": [{
+		"english": 23
+	}, {
+		"maths": 24
+	}],
+	"address": "hyderabad"
+}, {
+	"firstName": "abc",
+	"lastName": "xyz",
+	"age": 19,
+	"marks": [{
+		"english": 24
+	}, {
+		"maths": 23
+	}],
+	"address": "hyderabad"
+}]
